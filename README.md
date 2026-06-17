@@ -1,4 +1,5 @@
 ##"AayuMitra"-Universal Health 
+
 Aayu Mitra is an intelligent voice-based healthcare assistant designed to provide quick and easy medical guidance to people of all ages. The application helps users identify common health symptoms, understand their possible severity, and receive immediate first-aid and home-care recommendations before consulting a healthcare professional.
 
 The system supports multiple Indian languages, making healthcare information accessible to people from different regions and language backgrounds. Users can interact with the application using voice commands or by selecting symptoms manually.
@@ -70,30 +71,35 @@ Create responsive web pages.
 Implement multilingual support.
 Ensure accessibility for users of all age groups.
 Maintain consistent colors, fonts, and layouts.
+
 2. Voice Recognition Team
 
 Implement speech-to-text functionality.
 Support multiple Indian languages.
 Improve voice recognition accuracy.
 Handle voice input errors gracefully.
+
 3. Symptom Analysis Team
 
 Develop symptom classification logic.
 Create risk assessment categories.
 Ensure recommendations are clear and easy to understand.
 Update symptom database regularly.
+
 4. Content and Medical Research Team
 
 Verify health information from reliable medical sources.
 Prepare home-remedy suggestions.
 Create emergency response guidelines.
 Ensure content is medically responsible.
+
 5. Testing and Quality Assurance Team
 
 Test all features thoroughly.
 Verify multilingual functionality.
 Check mobile and desktop compatibility.
 Report and fix bugs before deployment.
+
 6. Documentation Team
 
 Maintain project documentation.
@@ -125,5 +131,7 @@ The application provides basic health guidance only and should not replace profe
 
 
 Team Details : L.Gynana Sri Harini
+
                D.Indumathi
+               
                D.Satya Vyshnavi
