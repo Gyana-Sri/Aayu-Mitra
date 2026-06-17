@@ -1,4 +1,4 @@
-##"AayuMitra"-Universal Health 
+##"AayuMitra"-Universal Health Assistant
 
 Aayu Mitra is an intelligent voice-based healthcare assistant designed to provide quick and easy medical guidance to people of all ages. The application helps users identify common health symptoms, understand their possible severity, and receive immediate first-aid and home-care recommendations before consulting a healthcare professional.
 
